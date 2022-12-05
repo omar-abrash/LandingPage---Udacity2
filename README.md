@@ -1,7 +1,7 @@
 # Landing-Page (Manipulating the DOM) - UDACITY - Project
-````````
+
 https://omar-abrash.github.io/LandingPage---Udacity2/
-````````
+
 # navegation bar (bulid dynamic when add or remove any section)
 - [section 1](#section-1)
 - [section 2](#section-2)
